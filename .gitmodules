@@ -1,0 +1,3 @@
+[submodule "HeapView"]
+	path = HeapView
+	url = http://github.com/polymorf/HeapView.git
