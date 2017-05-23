@@ -1,3 +1,0 @@
-[submodule "\\'`echo toto > /tmp/pwn`"]
-	path = \\'`echo toto > /tmp/pwn`
-	url = https://github.com/polymorf/HeapView.git
